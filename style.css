@@ -181,7 +181,7 @@ footer p {
     .anchors {
       position: fixed;
       top: var(--anchors-top);
-      left: calc(50% - 720px);
+      left: calc(50% - 675px);
       width: 220px;
 
       background: #ffffff;
@@ -202,7 +202,7 @@ footer p {
 
     .anchors ul {
       list-style: none;
-      padding-left: 0;
+      padding-left: 20px;
       margin: 0;
     }
 
@@ -224,4 +224,10 @@ footer p {
       margin-left: 16px;
       font-size: 12px;
       color: #555;
+    }
+
+    #auteur {
+      color: #0f3d91;
+      font-weight: bold;
+      padding-left: 15px;
     }
