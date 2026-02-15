@@ -226,7 +226,7 @@ footer p {
       color: #555;
     }
 
-    #auteur {
+    .auteur {
       color: #0f3d91;
       font-weight: bold;
       padding-left: 15px;
